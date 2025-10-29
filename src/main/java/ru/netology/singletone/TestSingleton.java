@@ -1,4 +1,4 @@
-package patternsdemo.singleton;
+package ru.netology.singletone;
 
 public class TestSingleton {
 
