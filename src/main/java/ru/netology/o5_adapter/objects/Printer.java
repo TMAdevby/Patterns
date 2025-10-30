@@ -1,4 +1,4 @@
-package objects;
+package ru.netology.o5_adapter.objects;
 
 // готовый объект с возможностью печати 1 текста
 public class Printer {

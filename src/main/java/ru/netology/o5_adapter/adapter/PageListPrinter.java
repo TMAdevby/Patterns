@@ -1,4 +1,4 @@
-package adapter;
+package ru.netology.o5_adapter.adapter;
 
 import java.util.List;
 

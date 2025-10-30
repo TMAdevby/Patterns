@@ -1,6 +1,6 @@
 package objects;
 
-import adapter.PrinterAdapter;
+import ru.netology.o5_adapter.adapter.PrinterAdapter;
 import java.util.ArrayList;
 import java.util.List;
 
