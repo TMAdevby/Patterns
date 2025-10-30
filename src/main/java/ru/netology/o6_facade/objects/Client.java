@@ -1,9 +1,9 @@
-package objects;
+package ru.netology.o6_facade.objects;
 
 import facade.CarFacade;
-import parts.Door;
-import parts.Wheel;
-import parts.Zazhiganie;
+import ru.netology.o6_facade.parts.Door;
+import ru.netology.o6_facade.parts.Wheel;
+import ru.netology.o6_facade.parts.Zazhiganie;
 
 public class Client {
 

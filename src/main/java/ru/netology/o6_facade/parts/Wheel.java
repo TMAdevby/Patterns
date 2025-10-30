@@ -1,4 +1,4 @@
-package parts;
+package ru.netology.o6_facade.parts;
 
 public class Wheel{
 
