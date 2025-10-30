@@ -1,9 +1,9 @@
-package decorators;
+package ru.netology.o4_decorator.decorators;
 
-import objects.Button;
-import objects.Component;
-import objects.TextView;
-import objects.Window;
+import ru.netology.o4_decorator.objects.Button;
+import ru.netology.o4_decorator.objects.Component;
+import ru.netology.o4_decorator.objects.TextView;
+import ru.netology.o4_decorator.objects.Window;
 
 public class Start {
     

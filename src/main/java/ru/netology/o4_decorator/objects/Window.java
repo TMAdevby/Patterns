@@ -1,4 +1,4 @@
-package objects;
+package ru.netology.o4_decorator.objects;
 
 public class Window implements Component{
 

@@ -1,6 +1,6 @@
-package decorators;
+package ru.netology.o4_decorator.decorators;
 
-import objects.Component;
+import ru.netology.o4_decorator.objects.Component;
 
 public class BorderDecorator extends Decorator {
 
