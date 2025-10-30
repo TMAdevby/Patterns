@@ -1,4 +1,4 @@
-package ru.netology.singletone;
+package ru.netology.o1_singletone;
 
 public class Start {
 
