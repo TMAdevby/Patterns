@@ -1,4 +1,4 @@
-package strategy;
+package ru.netology.o9_strategy.strategy;
 
 public class DBAuth implements AuthStrategy{
     

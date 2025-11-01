@@ -1,9 +1,9 @@
-package start;
+package ru.netology.o9_strategy.start;
 
-import auth.UserChecker;
+import ru.netology.o9_strategy.auth.UserChecker;
 import java.io.File;
-import strategy.DBAuth;
-import strategy.FileAuth;
+import ru.netology.o9_strategy.strategy.DBAuth;
+import ru.netology.o9_strategy.strategy.FileAuth;
 
 
 public class Main {

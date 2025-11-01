@@ -1,6 +1,6 @@
-package auth;
+package ru.netology.o9_strategy.auth;
 
-import strategy.AuthStrategy;
+import ru.netology.o9_strategy.strategy.AuthStrategy;
 
 public class UserChecker {
 

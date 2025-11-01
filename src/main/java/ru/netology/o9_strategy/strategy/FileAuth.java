@@ -1,4 +1,4 @@
-package strategy;
+package ru.netology.o9_strategy.strategy;
 
 import java.io.File;
 
