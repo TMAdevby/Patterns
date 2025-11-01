@@ -1,9 +1,9 @@
-package start;
+package ru.netology.o8_state.start;
 
-import context.TransformerContext;
-import state.FireState;
-import state.MoveState;
-import state.TransformerState;
+import ru.netology.o8_state.context.TransformerContext;
+import ru.netology.o8_state.state.FireState;
+import ru.netology.o8_state.state.MoveState;
+import ru.netology.o8_state.state.TransformerState;
 
 public class Main {
 

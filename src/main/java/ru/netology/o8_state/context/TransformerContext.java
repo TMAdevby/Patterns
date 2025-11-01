@@ -1,6 +1,6 @@
-package context;
+package ru.netology.o8_state.context;
 
-import state.TransformerState;
+import ru.netology.o8_state.state.TransformerState;
 
 public class TransformerContext implements TransformerState{
     

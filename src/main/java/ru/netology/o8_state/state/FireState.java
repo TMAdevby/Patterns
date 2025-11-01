@@ -1,4 +1,4 @@
-package state;
+package ru.netology.o8_state.state;
 
 public class FireState implements TransformerState{
 
